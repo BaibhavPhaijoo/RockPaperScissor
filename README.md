@@ -18,3 +18,6 @@ cd RockPaperScissor
 ```bash
 dotnet run
 ```
+### Author: Baibhav Phaijoo
+### Language: C#
+

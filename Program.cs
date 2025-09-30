@@ -60,7 +60,7 @@ namespace Calculator
 		}
 	}
 
-	class Program {
+	class Game {
 
 		public static string mode = " ";
 		public static string playerResp = " ";
