@@ -9,3 +9,12 @@
 ```bash
 git clone https://github.com/BaibhavPhaijoo/RockPaperScissor
 ```
+### Go to the directory of the repo
+```bash
+cd RockPaperScissor
+```
+
+### Run the code
+```bash
+dotnet run
+```
